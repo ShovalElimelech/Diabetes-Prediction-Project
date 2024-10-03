@@ -1,1 +1,0 @@
-https://diabetes-prediction-project-s.streamlit.app
